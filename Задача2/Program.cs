@@ -4,6 +4,8 @@
 //a = 2 b = 10 -> max = 10
 //a = -9 b = -3 -> max = -3
 
+Console.Clear();
+
 Console.WriteLine("Программа показывающая максимальное число");
 Console.WriteLine("Введите число а ");
 //1. Ввод числа

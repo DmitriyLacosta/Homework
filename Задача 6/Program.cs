@@ -4,6 +4,7 @@
 //-3 -> нет
 //7 -> нет
 
+Console.Clear();
 
 Console.WriteLine("Программа проверки четного числа");
 Console.WriteLine("Введите число: ");
